@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arabjon</h1>
 <h3 align="center">Talented frontend Reactjs developer from Uzbekistan</h3>
 
-I am a software engineer specializing in creating high loaded frontend and backend services, web applications and systems using React js and Django. I solve problems, automate things, and help businesses and people improve and improve their lives. </br>
+I am a software engineer specializing in creating high loaded frontend web applications using React js. I solve problems, automate things, and help businesses and people improve and improve their lives. </br>
 
 <h4 align="left">I am always open to collaborate on projects and innovative / destructive ideas. Learn more about me and contact me here:</h4>
 
